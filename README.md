@@ -1,4 +1,4 @@
-# Agentic Governance Suite
+# Enterprise Agent Toolkit
 
 A comprehensive suite of AI-powered tools for enterprise governance, software development lifecycle (SDLC) management, and agent trajectory analysis. Built with Streamlit, Autogen, and Azure OpenAI.
 
@@ -52,8 +52,8 @@ A comprehensive suite of AI-powered tools for enterprise governance, software de
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shivanikabu/agentic-governance-suite.git
-cd agentic-governance-suite
+git clone https://github.com/shivanikabu/Enterprise-Agent-Toolkit.git
+cd Enterprise-Agent-Toolkit
 ```
 
 2. **Create virtual environment**
@@ -273,7 +273,7 @@ Score and rank trajectories:
 ### Project Structure
 
 ```
-agentic-governance-suite/
+Enterprise-Agent-Toolkit/
 ├── main.py                          # Main Streamlit dashboard
 ├── Governance/                     # Governance agents
 │   ├── agents/
@@ -548,7 +548,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Large log files (>10MB) may cause slow processing
 - Graph visualization may not render properly in some browsers
 
-See [Issues](https://github.com/shivanikabu/agentic-governance-suite/issues) for full list.
+See [Issues](https://github.com/shivanikabu/Enterprise-Agent-Toolkit/issues) for full list.
 
 ## 📊 Performance Benchmarks
 
@@ -583,4 +583,4 @@ A: The toolkit is suitable for production with proper error handling and monitor
 
 **Star ⭐ this repository if you find it helpful!**
 
-For detailed documentation, visit our [Wiki](https://github.com/shivanikabu/agentic-governance-suite/wiki)
+For detailed documentation, visit our [Wiki](https://github.com/shivanikabu/Enterprise-Agent-Toolkit/wiki)
