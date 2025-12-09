@@ -515,7 +515,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Project Lead**: [Shivani Kabu]
 - **Team Member**: [Nikhil Khandelwal]
-- **Email**: shivani.dhar@gmail.com and nikhil.khandelwal2022@gmail.com
+- **Email**: shivani.kabu@gmail.com and nikhil.khandelwal2022@gmail.com
 - **GitHub**: [@shivanikabu](https://github.com/shivanikabu)
 
 ## 🗺️ Roadmap
